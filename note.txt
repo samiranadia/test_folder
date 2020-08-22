@@ -1,0 +1,75 @@
+html intro:
+     project folder
+     file+ folder
+     text editor
+     html template
+     run html
+     html
+     version control
+         revise:bug fix, delete, add, modify
+     element: starting tag and ending tag
+     tag: only starting tag.also called selfclosing tag
+     attribute: additional data of tag/element, attribute can be write in three ways. normal it write like: name="value" 
+     boolean attribute can write 3 ways:
+     name="value" 
+     name=""
+     name=
+     seo:
+     file formation
+     speed optimization:
+           text,image,audio,video cann't be very large. make sure speed does not hamper by the size. 
+
+           internet connection
+     contant
+         h1-h6,p, ancor tag=link=internal, external, image= internal,extralnal
+         jpg,jpeg,png,gif(free,r)
+         
+    optimization code
+    html code comment
+    css meaning cascting style sheet
+    css3
+    css power
+    css power
+    mesurment unit: px pt % em rem
+    em rem same thing
+    color: soild,rgb,hex,rgba
+  layout=htnl css
+  wrapper
+  float
+  overflow hidden
+  clearfixed
+  display: block,inline, 
+
+  height/min-height
+    css meanimg
+    why css
+    css type:
+    we can write css 3 ways
+    inline,internal,extralnal
+    css syntax:
+       selector{ properties:value;}
+       style is a attribute in inline css
+       style is a element in internal css
+    css power
+
+some genenal selectors like:tag/element, class, id
+div is element.div has contains.
+layout=html css
+wrapper
+float
+overflow hidden
+clearfix
+
+height/ min-height
+
+semantic markup
+html block and inline element
+
+display:block,inline, inline-block
+margin padding
+box model concept
+
+serch engin otimization
+h1-h6
+p
+image- name,alt
